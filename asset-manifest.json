@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://samreacts.github.io/csb-3nlgv2/static/css/main.7b5b51b4.chunk.css",
+    "main.js": "https://samreacts.github.io/csb-3nlgv2/static/js/main.96816398.chunk.js",
+    "main.js.map": "https://samreacts.github.io/csb-3nlgv2/static/js/main.96816398.chunk.js.map",
+    "runtime-main.js": "https://samreacts.github.io/csb-3nlgv2/static/js/runtime-main.4ed0eeb5.js",
+    "runtime-main.js.map": "https://samreacts.github.io/csb-3nlgv2/static/js/runtime-main.4ed0eeb5.js.map",
+    "static/js/2.0eece5f8.chunk.js": "https://samreacts.github.io/csb-3nlgv2/static/js/2.0eece5f8.chunk.js",
+    "static/js/2.0eece5f8.chunk.js.map": "https://samreacts.github.io/csb-3nlgv2/static/js/2.0eece5f8.chunk.js.map",
+    "index.html": "https://samreacts.github.io/csb-3nlgv2/index.html",
+    "static/css/main.7b5b51b4.chunk.css.map": "https://samreacts.github.io/csb-3nlgv2/static/css/main.7b5b51b4.chunk.css.map",
+    "static/js/2.0eece5f8.chunk.js.LICENSE.txt": "https://samreacts.github.io/csb-3nlgv2/static/js/2.0eece5f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ed0eeb5.js",
+    "static/js/2.0eece5f8.chunk.js",
+    "static/css/main.7b5b51b4.chunk.css",
+    "static/js/main.96816398.chunk.js"
+  ]
+}
